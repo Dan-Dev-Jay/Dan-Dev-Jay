@@ -9,7 +9,19 @@ I thrive in dynamic environments that demand **problem-solving, agility, and sof
 ### 📊 My GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dan-Dev-Jay&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-Dev-Jay&layout=compact&theme=radical)
+
+### 🏆 Most Used Languages  
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-Dev-Jay&layout=compact&theme=radical&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)  
+
+```yaml
+Python: 60%  
+TypeScript: 40%  
+JavaScript: 35%  
+Ruby: 30%  
+PHP: 20%  
+HTML: 10%  
+CSS: 10%  
 
 ---
 
