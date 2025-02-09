@@ -1,15 +1,15 @@
 ## 👋 Hi there,
 
-I'm a **Senior Software Engineer** with nearly a decade of experience building scalable and innovative solutions. I have a strong passion for developing **adaptive software, distributed systems, and optimizing backend performance** to enhance business efficiency. My expertise lies in **modern software architectures** and **technology-driven** problem-solving. I thrive in environments that require **agility, innovation, and high-quality software craftsmanship**.
+I'm a **Senior Software Engineer** with nearly a decade of experience building **scalable, high-performance** applications. I have a strong passion for **architecting distributed systems, optimizing backend performance, and developing AI-powered solutions** that drive business innovation. My expertise spans **modern software architectures, cloud computing, and DevOps automation** to enhance system efficiency and scalability.
 
-I also enjoy **efficient microservices design** and **data processing** projects. I have successfully reduced development time and improved performance across various enterprise applications.
+I thrive in dynamic environments that demand **problem-solving, agility, and software craftsmanship**. I also enjoy working on **microservices design, API integrations, and machine learning-driven automation** to create impactful digital experiences.
 
 ---
 
 ### 📊 My GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dan-Dev-Jay&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-Dev-Jay&layout=compact&theme=radical)
 
 ---
 
@@ -22,7 +22,7 @@ I also enjoy **efficient microservices design** and **data processing** projects
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)  
 
-### **Frameworks**  
+### **Frameworks & Libraries**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black)  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)  
@@ -48,17 +48,22 @@ I also enjoy **efficient microservices design** and **data processing** projects
 
 ## 📌 Personal Projects  
 
-- **[AI Vision](#)** - A visual tool for analyzing video content and audience sentiment.  
-- **[Smart Tasks](#)** - A platform for streamlining project management processes.  
-- **[DataSync](#)** - Automated data workflows for better productivity and improved customer experience.  
-- **[PredictAI](#)** - Predicts trends and insights for informed decision-making at scale.  
+- **[The Right Place](https://www.therightplace.com/)** – Developed Python-based APIs using Django & FastAPI, optimizing real-time data processing for economic insights.  
+- **[Fairmint](https://www.fairmint.com/)** – Built a blockchain-powered equity platform using Python & Flask, enabling seamless fundraising and investor engagement.  
+- **[CPN Satellite Services](https://www.cpn.de/en/)** – Engineered high-performance microservices with Python, Django, and PostgreSQL, improving satellite network efficiency.  
+- **[Lastlink](https://www.lastlink.us/)** – Designed AI-driven user engagement solutions using Python, TensorFlow, and OpenAI GPT, enhancing content monetization.  
+- **[VenueGPS](https://venuegps.com/)** – Developed a scalable event discovery platform with Python, FastAPI, and PostgreSQL, improving real-time geolocation tracking.  
 
 ---
 
 ## 🎓 Education  
 
-**Bachelor’s in Computer Science**  
+**Bachelor’s in Computer Science** | Lahore University of Management Sciences (LUMS)  
 
 ---
 
-Feel free to **connect with me** or **check out my projects**. I'm always open to discussing new ideas and collaborations!
+📫 **Get in Touch**  
+- ✉️ Email: [sqb.code@gmail.com](mailto:sqb.code@gmail.com)  
+- 🏗 GitHub: [Dan-Dev-Jay](https://github.com/Dan-Dev-Jay)  
+
+Let's **connect and collaborate** on exciting projects! 🚀
