@@ -9,19 +9,7 @@ I thrive in dynamic environments that demand **problem-solving, agility, and sof
 ### 📊 My GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dan-Dev-Jay&show_icons=true&theme=radical)  
-
-### 🏆 Most Used Languages  
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-Dev-Jay&layout=compact&theme=radical&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)  
-
-```yaml
-Python: 60%  
-TypeScript: 40%  
-JavaScript: 35%  
-Ruby: 30%  
-PHP: 20%  
-HTML: 10%  
-CSS: 10%  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-Dev-Jay&layout=compact&theme=radical)
 
 ---
 
@@ -60,11 +48,11 @@ CSS: 10%
 
 ## 📌 Personal Projects  
 
-- **[The Right Place](https://www.therightplace.com/)** – Developed Python-based APIs using Django & FastAPI, optimizing real-time data processing for economic insights.  
-- **[Fairmint](https://www.fairmint.com/)** – Built a blockchain-powered equity platform using Python & Flask, enabling seamless fundraising and investor engagement.  
-- **[CPN Satellite Services](https://www.cpn.de/en/)** – Engineered high-performance microservices with Python, Django, and PostgreSQL, improving satellite network efficiency.  
-- **[Lastlink](https://www.lastlink.us/)** – Designed AI-driven user engagement solutions using Python, TensorFlow, and OpenAI GPT, enhancing content monetization.  
-- **[VenueGPS](https://venuegps.com/)** – Developed a scalable event discovery platform with Python, FastAPI, and PostgreSQL, improving real-time geolocation tracking.  
+- **[The Right Place](https://www.therightplace.com/)**
+- **[Fairmint](https://www.fairmint.com/)**
+- **[CPN Satellite Services](https://www.cpn.de/en/)**
+- **[Lastlink](https://www.lastlink.us/)** 
+- **[VenueGPS](https://venuegps.com/)**
 
 ---
 
@@ -75,7 +63,7 @@ CSS: 10%
 ---
 
 📫 **Get in Touch**  
-- ✉️ Email: [sqb.code@gmail.com](mailto:sqb.code@gmail.com)  
+- ✉️ Email: [sqb.code@gmail.com](mailto:sqb.code@gmail.com)   
 - 🏗 GitHub: [Dan-Dev-Jay](https://github.com/Dan-Dev-Jay)  
 
 Let's **connect and collaborate** on exciting projects! 🚀
