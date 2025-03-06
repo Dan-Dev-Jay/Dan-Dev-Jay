@@ -63,7 +63,7 @@ I thrive in dynamic environments that demand **problem-solving, agility, and sof
 ---
 
 📫 **Get in Touch**  
-- ✉️ Email: [sqb.code@gmail.com](mailto:dan.devjay@gmail.com)   
+- ✉️ Email: [dan.devjay@gmail.com](mailto:dan.devjay@gmail.com)   
 - 🏗 GitHub: [Dan-Dev-Jay](https://github.com/Dan-Dev-Jay)  
 
 Let's **connect and collaborate** on exciting projects! 🚀
