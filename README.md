@@ -1,6 +1,6 @@
 ## 👋 Hi there,
 
-I'm a **Senior Software Engineer** with nearly a decade of experience building **scalable, high-performance** applications. I have a strong passion for **architecting distributed systems, optimizing backend performance, and developing AI-powered solutions** that drive business innovation. My expertise spans **modern software architectures, cloud computing, and DevOps automation** to enhance system efficiency and scalability.
+I'm a **Senior Software Engineer** with 4+ years of experience building **scalable, high-performance** applications. I have a strong passion for **architecting distributed systems, optimizing backend performance, and developing AI-powered solutions** that drive business innovation. My expertise spans **modern software architectures, cloud computing, and DevOps automation** to enhance system efficiency and scalability.
 
 I thrive in dynamic environments that demand **problem-solving, agility, and software craftsmanship**. I also enjoy working on **microservices design, API integrations, and machine learning-driven automation** to create impactful digital experiences.
 
@@ -58,12 +58,12 @@ I thrive in dynamic environments that demand **problem-solving, agility, and sof
 
 ## 🎓 Education  
 
-**Bachelor’s in Computer Science** | Lahore University of Management Sciences (LUMS)  
+**Bachelor’s in IR** | Tokyo International University (TIU)  
 
 ---
 
 📫 **Get in Touch**  
-- ✉️ Email: [dan.devjay@gmail.com](mailto:dan.devjay@gmail.com)   
+- ✉️ Email: [code.devibrahim@gmail.com](mailto:code.devibrahim@gmail.com)   
 - 🏗 GitHub: [Dan-Dev-Jay](https://github.com/Dan-Dev-Jay)  
 
 Let's **connect and collaborate** on exciting projects! 🚀
