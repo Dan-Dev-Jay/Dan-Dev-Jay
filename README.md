@@ -58,12 +58,12 @@ I thrive in dynamic environments that demand **problem-solving, agility, and sof
 
 ## 🎓 Education  
 
-**Bachelor’s in IR** | Tokyo International University (TIU)  
+**Bachelor’s in LUMS** | Lahore University of Management Sciences
 
 ---
 
 📫 **Get in Touch**  
-- ✉️ Email: [code.devibrahim@gmail.com](mailto:code.devibrahim@gmail.com)   
+- ✉️ Email: [sqb.code@gmail.com](mailto:sqb.code@gmail.com)   
 - 🏗 GitHub: [Dan-Dev-Jay](https://github.com/Dan-Dev-Jay)  
 
 Let's **connect and collaborate** on exciting projects! 🚀
